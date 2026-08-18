@@ -1,2 +1,2 @@
 # models-in-django
-Just learning models on django 
+Just learning models in django 
