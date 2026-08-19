@@ -1,4 +1,6 @@
 # models-in-django
+Just learning models on django 
+# models-in-django
 
 # Tehran Tourism Website
 
@@ -77,10 +79,11 @@ The project is currently under development.
 * [x] Views
 * [x] Database integration with SQLite
 * [x] Tourist attraction data
+* [x] PostgreSQL integration
 
 ### Planned
 
-* [ ] PostgreSQL integration
+
 * [ ] Django REST Framework
 * [ ] REST API
 * [ ] User authentication
