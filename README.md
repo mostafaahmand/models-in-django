@@ -35,7 +35,7 @@ The project currently uses **SQLite** during development.
 
 **PostgreSQL has  been connected to the project.**
 
-The project is planned to be migrated to PostgreSQL in a future version.
+
 
 ## Project Structure
 
