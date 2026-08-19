@@ -33,7 +33,7 @@ This project is built with **HTML, CSS, JavaScript, Python and Django**.
 
 The project currently uses **SQLite** during development.
 
-**PostgreSQL has not been connected to the project yet.**
+**PostgreSQL has  been connected to the project.**
 
 The project is planned to be migrated to PostgreSQL in a future version.
 
